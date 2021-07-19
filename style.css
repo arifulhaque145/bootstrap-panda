@@ -12,3 +12,7 @@ body {
     height: 25em;
     width: 25em;
 }
+
+.card-body {
+    padding: 0;
+}
